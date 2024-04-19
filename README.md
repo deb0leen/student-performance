@@ -4,4 +4,4 @@ This is an end-to-end ML Project of student performance with deployment where I 
 
 ## Run it on your PC
 
-To run it on your PC fork the entire repo and save all the dependencies and then run app.py
+To run it on your PC clone the entire repo and save all the dependencies and then run app.py
